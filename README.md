@@ -1,2 +1,2 @@
-# interview-es-52
-（核心题）ES6/ES7（52道题）
+## interview-es-48
+### 1.ES6-7精选48道面试题
